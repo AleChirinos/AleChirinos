@@ -12,6 +12,7 @@ Some of the languages and frameworks I work with are:
 - _Kotlin._
 - _Scala._
 - _MYSQL._
+- _Android._
 - _Angular._
 
 
